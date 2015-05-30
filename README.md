@@ -1,2 +1,4 @@
 # blackjack
-A blackjack game in python
+A blackjack game in Python
+
+Run using Python 3.
